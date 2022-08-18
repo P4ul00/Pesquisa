@@ -1,0 +1,18 @@
+O teste de software é uma maneira de avaliar a qualidade da aplicação e reduzir o risco de falhas.
+Testar não é apenas em executar testes (executar o software e verificar os resultados). Executar testes é apenas umas das atividades.
+Planejamento, análise, modelagem e implementação dos testes, relatórios de progresso, resultado e avaliação da qualidade, também são partes de um processo de testes.
+
+Testes Dinâmicos
+Engloba todos os tipos de teste e níveis de testes de software. Executando o sistema para ser testado, sendo um método tradicional inserindo uma entrada,
+executando o sistema e conferindo uma saída. A análise estática e a dinâmica se complementam sendo as duas realizadas no sistema.
+Defeito
+
+É qualquer imperfeição ou inconsistência no produto do software ou em seu processo,é algo que esta implementada no código de maneira errada.
+
+Erro
+
+O Erro pode ser um resultado de um defeito ou uma falha, como um retorno esperado, que por causa de uma falha teve um valor diferente do que esperado.
+
+Falha
+
+Esta mais ligada ao hardware, como uma rede inacessível, queda de energia. Uma falha pode ocorrer por causa de um erro
