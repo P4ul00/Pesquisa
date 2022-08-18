@@ -1,0 +1,20 @@
+- teste de usabilidade
+- teste funcional 
+- teste de integração
+- teste de performance
+- teste de segurança
+
+Teste de usabilidade
+avalia a qualidade da experiencia dos usuarios, por exemplo avaliando a interface, a facilidade de uso,etc.
+
+Teste funcional
+o teste funcional testa se o programa é capaz ou não de fazer as funções que se propõe a fazer.
+
+Teste de integração
+o objetivo do teste de integração é analisar o comportamento do software quando interage com outras aplicações.
+
+Teste de performance
+analisa a performance do desempenho do software em varias situações, assim sabendo o limite do software.
+
+Teste de segurança
+é um dos mais importantes pois ele analisa a proteção dos dados de um software, é realisado por uma equipe em Segurança da Informação que procura por brechas de segurança.
