@@ -1,0 +1,18 @@
+Teste de Desenvolvedor
+O teste do desenvolvedor indica os aspectos do design de teste e a implementação mais apropriada para a equipe de desenvolvedores.
+Na maioria dos casos, a execução do teste inicialmente ocorre com o grupo de teste do desenvolvedor que projetou e implementou o teste,
+mas é uma boa prática para os desenvolvedores para criar seus testes de modo que fiquem disponíveis para execução de grupos de teste independentes.
+
+Teste Independente
+O teste independente indica que o design de teste e a implementação mais apropriadamente executados por alguém que é independente da equipe de desenvolvedores.
+
+Teste de Unidade
+O teste de unidade enfoca a verificação dos menores elementos testáveis do software.
+Normalmente o teste de unidade é aplicado aos componentes representados no modelo de implementação para verificar se os fluxos de controle e de dados estão cobertos e se eles funcionam conforme o esperado.
+
+Teste de Integração
+O teste de integração é executado para assegurar que os componentes no modelo de implementação operem adequadamente quando combinado para executar um caso de uso.
+
+este de Aceitação
+O teste de aceitação do Usuário é a ação de teste final realizada antes da implementação do software.
+A meta do teste de aceitação é verificar se o software está pronto e se pode ser utilizado pelos usuários.
