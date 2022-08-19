@@ -1,0 +1,19 @@
+O plano de teste é um dos documentos produzidos na condução de um projeto.ele funciona como:
+-um integrador entre diversas atividades de testes no projeto
+-mecanismo de comunicação para os stakeholders
+-guia para execução e controle das atividades de testes
+
+ 
+
+O plano de teste, que pode ser elaborado pelo gerente de projeto ou gerente de testes, visa planejar as atividades a serem realizadas, definir os métodos a serem empregados,
+planejar a capacidade necessária, estabelecer métricas e formas de acompanhamento do processo. Em outras palavras, um plano de teste deve definir:
+
+1.Os itens a serem testados: os objetivos do plano devem ser estabelecidos no início do projeto.
+
+2.Atividades e recursos a serem empregados: as estratégias de testes e recursos utilizados devem ser definidos
+
+3.Os tipos de testes a serem realizados e ferramentas empregadas: os tipos de testes e a ordem cronológica de sua ocorrência são estabelecidos no plano.
+
+4.Critérios para avaliar os resultados obtidos: métricas devem ser definidas para acompanhar os resultados alcançados.
+
+ 
