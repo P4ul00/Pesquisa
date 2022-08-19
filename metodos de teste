@@ -1,0 +1,16 @@
+Métodos de teste: 
+pairwise
+gráfico de causa e efeito
+valores limites
+
+-Pairwise: 
+É usado quando um defeito no softwae depende de muitas variáveis.  
+A técnica utiliza parâmetros matemáticos para a definição das variáveis, otimizando tempo.
+
+-Grafico de causa e efeito:
+O Diagrama de Ishikawa, também conhecido como Diagrama de Causa e Efeito ou Diagrama Espinha de peixe
+é um gráfico cuja finalidade é organizar o raciocínio em discussões de um problema prioritário, em processos diversos, especialmente na produção industrial.
+
+-Valor limite:
+Usamos a técnica análise do valor limite para gerar casos de teste para intervalos numéricos.
+Para usar a análise do valor limite nos testes, descobrimos os limites do campo que queremos testar.
