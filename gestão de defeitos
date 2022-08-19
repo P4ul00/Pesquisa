@@ -1,0 +1,20 @@
+Um processo de gestão de defeitos tem o objetivo de definir práticas para prevenir os defeitos e minimizar os riscos de um projeto. 
+A utilização de uma ferramenta automatizada e oferece uma base comum para a entrada de informações
+por meio dos relatórios de gestão e métricas geradas por essas ferramentas, os gestores do projeto poderão promover a melhoria contínua do processo estabelecido.
+
+-Defeito (Fault):
+Passo, processo ou definição de dados incorretos. 
+
+-Engano (Mistake): 
+Ação humana que produz um resultado incorreto.
+
+-Falha (Failure): 
+Desvio entre o resultado/comportamento apresentado pela aplicação em relação aos requisitos.
+
+A regra 10 de Myers apresenta que o custo da correção de um defeito tende a aumentar quanto mais tarde ele for encontrado.
+Os defeitos encontrados nas fases iniciais do projeto de desenvolvimento do software são mais baratos do que aqueles encontrados na produção.
+
+-Ciclo de vida
+É um termo usado para definir o conjunto de etapas que ocorrem entre a concepção de um sistema e o instante em que ele é descontinuado pelo desenvolvedor.
+
+
