@@ -1,0 +1,10 @@
+Métodos de teste: 
+Step-by-step 
+pairwise
+gráfico de causa e efeito
+classe de equivalência 
+valores limites
+
+Pairwise: 
+É usado quando um defeito no softwae depende de muitas variáveis.  
+A técnica utiliza parâmetros matemáticos para a definição das variáveis, otimizando tempo.
