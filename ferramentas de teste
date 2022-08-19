@@ -1,0 +1,16 @@
+-TestLink:
+O TestLink é uma aplicação open source voltada para a gestão de testes desenvolvida e mantida por várias equipes ao longo dos anos. 
+Oferece suporte para criação, execução e manutenção de casos de teste. Possui suporte aos bancos de dados MySQL e PostgreSQL.
+
+-Mantis:
+O Mantis é um popular sistema de gerenciamento de defeitos de fácil customização, instalação e entendimento. 
+Ele é gratuito escrito em PHP que é acessada através de um browser e disponibilizada com a licença GNU General Public License (GPL). 
+Possui suporte a diversos bancos de dados, por exemplo: MySQL, SQL Server,etc.
+
+Selenium: É conhecida do mercado por ser open source. 
+É bem versátil,pode ser utilizada em aplicações para web nas plataformas e browsers Linux, Mac e Windows.
+É compatível com diversas linguagens de programação:Java,PHP,Python,C#.
+
+-JUnit:
+é um framework open-source,com suporte à criação de testes automatizados na linguagem de programação Java, 
+Esse framework facilita a criação e manutenção do código para a automação de testes com apresentação dos resultados.
