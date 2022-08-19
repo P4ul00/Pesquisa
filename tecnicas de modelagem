@@ -1,0 +1,16 @@
+-Caixa Branca
+
+tem acesso ao código fonte e conhece a estrutura interna do produto
+possibilita que sejam escolhidas partes específicas de um componente para ser avaliados,
+permitindo uma busca precisa do comportamento da estrutura.
+
+-Caixa Preta
+
+é baseada nos requisitos básicos do software,foca nos requisitos da aplicação, nas ações que deve desempenhar. 
+Os níveis de teste caixa preta são Integração, Sistema,Aceitação, Alfa e Beta. 
+Possuem métodos e classes, comandos de repetição e condições. Se resumem em testes de entrada e saída.
+
+-Caixa cinza
+
+ se parece com a caixa branca (acesso parcial ao códico fonte) e da caixa preta (acesso ao desempenho do software).
+Testa o software pelo front-end enquanto observa pelo back-end
